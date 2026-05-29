@@ -4,12 +4,12 @@
 
 **Full-Stack Developer** · MERN &amp; Next.js
 
-Computer Science graduate building responsive, scalable web &amp; mobile apps,
+Computer Science graduate building responsive, scalable web and mobile apps,
 with hands-on experience in REST APIs and AI integration.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-4d8dff?style=flat-square&logo=vercel&logoColor=white)](https://saqlainmahmood.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4d8dff?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saqlainmahmood)
-[![Email](https://img.shields.io/badge/Email-4d8dff?style=flat-square&logo=gmail&logoColor=white)](mailto:saqlainxmahmood@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saqlainmahmood)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:saqlainxmahmood@gmail.com)
 
 </div>
 
@@ -32,19 +32,24 @@ with hands-on experience in REST APIs and AI integration.
 
 ### Experience
 
-**Software Engineering Intern · Systems Limited**
+**Software Engineering Intern · Systems Limited**  
 Built full-stack features on Microsoft Azure (Python, Azure Functions), integrated AI services, implemented JWT auth, and set up CI/CD with GitHub Actions.
 
 ### Selected Projects
 
-- **Fitness Buddy** · AI fitness app with workout-partner matching and personalised plans via a RAG pipeline (LLaMA 3.3). &nbsp;`React Native` `Firebase`
-- **Emotion Classification** · Fine-tuned LLaMA 3.1 8B with QLoRA; 93.55% accuracy on 6-class. &nbsp;`Python` `PyTorch` `HuggingFace`
-- **PhotoShare** · Serverless Azure photo platform with AI tagging and JWT auth. &nbsp;`Azure Functions` `Cosmos DB`
+**Fitness Buddy** · AI fitness app with workout-partner matching and personalised plans via a RAG pipeline (LLaMA 3.3).  
+`React Native` `TypeScript` `Firebase`
+
+**Emotion Classification** · Fine-tuned LLaMA 3.1 8B with QLoRA; 93.55% accuracy on 6-class.  
+`Python` `PyTorch` `HuggingFace`
+
+**PhotoShare** · Serverless Azure photo platform with AI tagging and JWT auth.  
+`Azure Functions` `Cosmos DB`
+
+---
 
 <div align="center">
-<br/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=saqlain-mahmood&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4d8dff&icon_color=4d8dff&text_color=c9d1d9" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqlain-mahmood&layout=compact&hide_border=true&bg_color=0d1117&title_color=4d8dff&text_color=c9d1d9&langs_count=6" />
+**[View my portfolio → saqlainmahmood.me](https://saqlainmahmood.me)**
 
 </div>
